@@ -4,6 +4,6 @@ To replicate Figures 1, 3 and 4, open and run file "Fig1_3_4.m" in MATLAB. File 
 
 To replicate Figure 2 and/or the analyses in Appendix E, you need to run "Fig2AppendixE.m".
 
-The file "Appendix_D_DICE2016_FAIR_exact_SSP.gms" contains the GAMS code for the DICE model with FAIR climate dynamics.
+The file "Appendix_D_DICE2016_FAIR_exact_SSP.gms" contains the GAMS code for the DICE model with FAIR climate dynamics, our main scenario. Other scenarios are available on demand.
 
 For questions related to the figures, please contact f.venmans1@lse.ac.uk, and for questions related to the GAMS code you can contact armon.rezai@wu.ac.at.
